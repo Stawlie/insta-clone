@@ -1,0 +1,13 @@
+.avatar-wrapper{
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    width: 56px;
+    height: 56px;
+    background: #ccc;
+    overflow: hidden;
+}
+
+.avatar-wrapper img{
+    width: 100%;
+    height: 100%;
+}
