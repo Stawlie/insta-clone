@@ -1,0 +1,8 @@
+.header__logo {
+    display: flex;
+    flex: 1;
+}
+
+.header__logo img{
+    max-height: 50px;
+}
