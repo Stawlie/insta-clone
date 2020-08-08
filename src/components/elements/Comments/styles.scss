@@ -1,0 +1,23 @@
+.comments-list__item{
+
+  margin-top: 8px;
+
+
+  .list-item__username{
+    font-weight: 600;
+    margin-right: 8px;
+  }
+}
+
+
+.comments-list{
+  padding: 0 12px;
+}
+
+
+.show-all-anchor{
+  padding: 6px 0;
+  color: #A8A8A8;
+  text-decoration: none;
+  cursor: pointer;
+}

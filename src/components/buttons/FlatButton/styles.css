@@ -1,0 +1,19 @@
+.flat-btn{
+    border: none;
+    background: #fff;
+    color: #0c64ef;
+    text-transform: capitalize;
+    padding: 4px 15px;
+}
+
+.flat-btn--disabled{
+    opacity: .4;
+}
+
+.flat-btn:hover{
+    cursor: pointer;
+}
+
+.flat-btn--disabled:hover{
+    cursor: default;
+}

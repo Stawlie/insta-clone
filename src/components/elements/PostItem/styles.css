@@ -4,7 +4,6 @@
     background: #fff;
     max-width: 620px;
     margin: 0 auto;
-    padding-bottom: 22px;
 }
 
 .post-item__header{
@@ -20,7 +19,7 @@
 
 .post-header__left{
     display: flex;
-    flex: 1;
+    flex: 10;
     align-items: center;
 }
 

@@ -1,0 +1,16 @@
+.comment-form{
+    display: flex;
+    align-items: center;
+    padding: 12px 0;
+}
+
+.comment-form__input{
+    border: none;
+    flex: 1;
+    margin-right: 10px;
+    padding-left: 15px
+}
+
+.comment-form__input:focus{
+    outline: none;
+}
