@@ -1,0 +1,14 @@
+.header__search {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__search-bar {
+    width: 220px;
+    padding: 4px 0px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+}

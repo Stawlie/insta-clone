@@ -12,7 +12,7 @@ class PostsList extends React.Component {
 
     render() {
         return (
-            <div className={'post-list'}>
+            <div className={'post-list container'}>
                 {this.renderItems()}
             </div>
         )
