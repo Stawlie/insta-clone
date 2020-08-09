@@ -12,7 +12,7 @@ class PostItem extends React.Component {
             <div className={'post-item'}>
                 <div className="post-item__header">
                     <div className="post-header__left">
-                        <Avatar src={this.props.src}/>
+                        <Avatar className={'post-header__avatar'} src={this.props.src}/>
                         <div className={'post-header__info'}>
                             <h4 className={'post-header__name'}>{this.props.name}</h4>
                             <span className={'post-header__place'}>{this.props.desc}</span>

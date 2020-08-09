@@ -1,0 +1,10 @@
+.history-list {
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background: #fff;
+    max-width: 620px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

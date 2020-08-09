@@ -31,6 +31,8 @@
 
 .post-item__header .avatar-wrapper{
     margin-right: 14px;
+    width: 36px;
+    height: 36px;
 }
 
 .post-item__content{
